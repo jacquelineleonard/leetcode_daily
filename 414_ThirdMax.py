@@ -1,5 +1,5 @@
 
-#my code
+#neems code
 
 class Solution(object):
     def thirdMax(self, nums):

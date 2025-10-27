@@ -1,5 +1,5 @@
 //Check whether a given number is a perfect number (equal to the sum of its proper divisors).
-//my solution -  time complexity is O(num)
+//neems solution -  time complexity is O(num)
 class Solution {
     public boolean checkPerfectNumber(int num) {
         int sum=0;

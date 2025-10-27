@@ -1,6 +1,7 @@
-// my code
+// neems  code
 //time is O(n)
 //space is O(1)
+//jacqueline done asw same code except first if condition
 class Solution {
     public boolean threeConsecutiveOdds(int[] arr) {
         if(arr.length<3)return false;
