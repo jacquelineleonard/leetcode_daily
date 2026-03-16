@@ -1,6 +1,5 @@
 //jacks code 
 import java.lang.Math;
-import java.util.*;
 class Solution {
     public int maximumProduct(int[] nums){
         int n[]=bubblesort(nums);
