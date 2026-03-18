@@ -17,7 +17,7 @@ class Solution {
     
     }
 }
-//best code
+//best code su
 class Solution1 {
     public int removeElement(int[] nums, int val) {
         int index = 0;

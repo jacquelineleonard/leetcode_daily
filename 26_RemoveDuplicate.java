@@ -9,7 +9,6 @@ class Solution {
         }
         nums[index++]=nums[nums.length-1];
         return index;
-        
     }
 }
 //best code
